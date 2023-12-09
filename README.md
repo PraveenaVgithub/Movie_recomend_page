@@ -1,2 +1,2 @@
-# Movie_recomend_page
+# Movie_recommend_page
 react_practice_2 I deployed a page of my learning of components in react(functional component)
